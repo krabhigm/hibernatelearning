@@ -7,7 +7,7 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.ManyToMany;
 
-// test comment
+// test comment test1
 
 @Entity
 public class User {
